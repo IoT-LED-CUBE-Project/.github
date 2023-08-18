@@ -1,14 +1,20 @@
-## 프로젝트
+## Project
 IoT LED CUBE Project <br>
 
-## 인원
+## Member
 김동욱 (부산 소프트웨어 마이스터 고등학교) <br>
 
-## 사용언어
+## Language
 
 Front-End ) HTML, CSS, JavaScript <br>
 Back-End ) Flask <br>
 DB ) Firebase <br>
-IoT ) Arduino
+IoT ) Arduino <br>
+
+## Tool
+
+Visual Studio Code <br>
+Arduino IDE <br>
+Firebase <br>
 
 ## 프로젝트 설명
