@@ -10,15 +10,14 @@ IoT LED CUBE Project <br>
 
 ## Language
 
-Front-End ) HTML, CSS, JavaScript <br>
-Back-End ) Flask <br>
-DB ) Firebase <br>
+Front-End ) HTML, CSS, JavaScript, React <br>
+Back-End ) Node.js <br>
+DB ) MYSQL <br>
 IoT ) Arduino <br>
 
 ## Tool
 
 Visual Studio Code <br>
 Arduino IDE <br>
-Firebase <br>
 
 ## 프로젝트 설명
